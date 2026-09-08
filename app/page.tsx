@@ -84,6 +84,7 @@ export default function Home() {
           <li>Mixed</li>
         </ul>
       </div>
+      {/*latest news card*/}
     </div>
   );
 }
